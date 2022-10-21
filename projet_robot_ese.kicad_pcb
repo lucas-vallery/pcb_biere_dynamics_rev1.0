@@ -1741,7 +1741,7 @@
     (property "Sheetname" "Driver moteur")
     (path "/5fee0e22-69f3-4c78-935c-454f753c2c54/54aba7f9-713f-4b0c-b7e8-cfe71d9d4230")
     (attr exclude_from_pos_files)
-    (fp_text reference "JP309" (at 0 -2) (layer "F.SilkS")
+    (fp_text reference "JP309" (at 0 -2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1ec570d1-70a8-471d-b942-063b7ed2ec1f)
     )
@@ -1972,7 +1972,7 @@
     (property "Sheetname" "Driver moteur")
     (path "/5fee0e22-69f3-4c78-935c-454f753c2c54/dca158c4-718d-4373-b855-6e833138247c")
     (attr exclude_from_pos_files)
-    (fp_text reference "JP303" (at -5.225 0.034) (layer "F.SilkS")
+    (fp_text reference "JP303" (at -5.225 0.034) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a4e20833-c5c4-4ff7-ac35-d2f4e33f50b5)
     )
@@ -2173,7 +2173,7 @@
     (property "Sheetname" "Power")
     (path "/d530e13d-30b0-4cdf-8d57-05508e507e87/2b180a87-4419-457a-8fd7-5815a8405a36")
     (attr exclude_from_pos_files)
-    (fp_text reference "JP201" (at 4.699 0) (layer "F.SilkS")
+    (fp_text reference "JP201" (at 4.699 0) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 48e71ca1-f4cd-45df-b720-e1c896ce0fde)
     )
@@ -3155,7 +3155,7 @@
     (property "Sheetname" "Driver moteur")
     (path "/5fee0e22-69f3-4c78-935c-454f753c2c54/d4b2b70a-3320-431c-b63c-fba096a7ffd3")
     (attr exclude_from_pos_files)
-    (fp_text reference "JP304" (at -5.25 0.155) (layer "F.SilkS")
+    (fp_text reference "JP304" (at -5.25 0.155) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d1ddc2ee-5f69-4d71-879b-23cd63f3ba39)
     )
@@ -3248,7 +3248,7 @@
     (property "Sheetname" "Driver moteur")
     (path "/5fee0e22-69f3-4c78-935c-454f753c2c54/ab08547d-6641-4252-b617-3434aa10b782")
     (attr exclude_from_pos_files)
-    (fp_text reference "JP302" (at 0.016 -2.095) (layer "F.SilkS")
+    (fp_text reference "JP302" (at 0.016 -2.095) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp acb69c4a-c049-442f-a45a-c01421a51017)
     )
@@ -3554,7 +3554,7 @@
     (property "Sheetname" "Stm32")
     (path "/29ec760f-7709-4c15-8f42-bdae83476aab/c96b8196-ffad-4c2f-88ff-3caaa90df690")
     (attr exclude_from_pos_files)
-    (fp_text reference "JP401" (at -4 -0.06) (layer "F.SilkS")
+    (fp_text reference "JP401" (at -4 -0.06) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 48fc1125-3d38-4315-bb62-41fedede0a58)
     )
@@ -3932,7 +3932,7 @@
     (property "Sheetname" "Stm32")
     (path "/29ec760f-7709-4c15-8f42-bdae83476aab/1ed7712c-5058-4fbb-b72c-2088b2aaba74")
     (attr exclude_from_pos_files)
-    (fp_text reference "JP403" (at 0 2) (layer "F.SilkS")
+    (fp_text reference "JP403" (at 0 2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 35e421d8-2c1a-498d-9413-543122a9facd)
     )
@@ -4391,7 +4391,7 @@
     (property "Sheetname" "Stm32")
     (path "/29ec760f-7709-4c15-8f42-bdae83476aab/cf1ca02b-10a9-46b9-9b59-d3fc60b5f21f")
     (attr exclude_from_pos_files)
-    (fp_text reference "JP402" (at -4.25 0.06) (layer "F.SilkS")
+    (fp_text reference "JP402" (at -4.25 0.06) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c590797f-0422-4025-8234-1cdc06ef6c9e)
     )
@@ -4428,7 +4428,7 @@
     (property "Sheetname" "Driver moteur")
     (path "/5fee0e22-69f3-4c78-935c-454f753c2c54/0a7bd530-308f-472e-a3a1-c6642f4cc8a9")
     (attr exclude_from_pos_files)
-    (fp_text reference "JP310" (at -5.25 0) (layer "F.SilkS")
+    (fp_text reference "JP310" (at -5.25 0) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 10bcb123-0175-4435-89fe-482e5c2b2c6c)
     )
@@ -4521,7 +4521,7 @@
     (property "Sheetname" "Stm32")
     (path "/29ec760f-7709-4c15-8f42-bdae83476aab/08d432bf-be36-4f8a-92c0-9c7944acbbd7")
     (attr smd)
-    (fp_text reference "C403" (at 0 1.5 90) (layer "F.SilkS")
+    (fp_text reference "C403" (at 0 3.25 180) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a5f4be57-9023-47f5-8fbb-35a1ecd36bcf)
     )
@@ -5029,7 +5029,7 @@
     (property "Sheetname" "Driver moteur")
     (path "/5fee0e22-69f3-4c78-935c-454f753c2c54/95bbdb30-305d-4d31-ae4b-7b04051082cb")
     (attr exclude_from_pos_files)
-    (fp_text reference "JP301" (at -5.25 -0.155) (layer "F.SilkS")
+    (fp_text reference "JP301" (at -5.25 -0.155) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d9dc2a8b-14a0-4cb5-bbf3-c4d629f492df)
     )
@@ -5080,7 +5080,7 @@
     (property "Sheetname" "Stm32")
     (path "/29ec760f-7709-4c15-8f42-bdae83476aab/2f960bb7-d431-4c65-b072-f7084105afb9")
     (attr smd)
-    (fp_text reference "C402" (at 0.5 1.5 90) (layer "F.SilkS")
+    (fp_text reference "C402" (at 0 3.25 180) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0dce701a-ca2f-4029-8729-beb35eac1f54)
     )
