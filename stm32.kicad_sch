@@ -4252,7 +4252,7 @@
   (symbol (lib_id "power:+3V3") (at 302.26 223.52 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e63e6660-693b-44b7-8ca8-6e0bdb418c8e)
-    (property "Reference" "#PWR?" (id 0) (at 302.26 227.33 0)
+    (property "Reference" "#PWR0119" (id 0) (at 302.26 227.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (id 1) (at 302.26 218.44 0))
